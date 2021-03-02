@@ -40,5 +40,6 @@ Users who will not own a token will just keep on seeing the logo.
 Users who own an invitation token will be able to access the page and send out invitation.
 Simple as that.... =)
 
+You can see the design for this page here https://www.figma.com/file/Iwd71DyO47YhiOUmLP1M1Q/Invitation-NFT?node-id=1%3A41
 
 *the dependency cutter can be either a timebomb or a kill button.
