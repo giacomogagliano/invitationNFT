@@ -26,7 +26,7 @@ Here under a list of special function that shall be granted just to the "origins
 
 1 - pause minting <br>
 2 - restart minting <br>
-3 - burned unused tokens who are older than 3 days (tokens which didnt log into the dAPP and tokens which logged but didnt performe the required action <br>
+3 - burn unused tokens who are older than 3 days (tokens which didnt log into the dAPP and tokens which logged but didnt performe the required action <br>
 
 # Front End Version v0.0
 I just started out using the Open Zeppelin files.
