@@ -28,6 +28,8 @@ Here under a list of special function that shall be granted just to the "origins
 2 - restart minting <br>
 3 - burn unused tokens who are older than 3 days (tokens which didnt log into the dAPP and tokens which logged but didnt performe the required action <br>
 
+*the dependency cutter can be either a timebomb or a kill button.
+
 # Front End Version v0.0
 I just started out using the Open Zeppelin files.
 I woul like to make this contract as light weight as possible to minimize users deployment gas fees, I actually still don't know how to do this, but I know it is possible!!
@@ -41,5 +43,3 @@ Users who own an invitation token will be able to access the page and send out i
 Simple as that.... =)
 
 You can see the design for this page here https://www.figma.com/file/Iwd71DyO47YhiOUmLP1M1Q/Invitation-NFT?node-id=1%3A41
-
-*the dependency cutter can be either a timebomb or a kill button.
