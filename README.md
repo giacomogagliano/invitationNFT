@@ -5,12 +5,12 @@ This means that the NFT shall be initially sent to some addresses, which are goi
 
 It will be integrated in the ZION dAPP suite (!! =) ) and it shall become deployable by anyone who already have a ZION invite NFT.
 
-The use cases for this NFT are going to be this:
+The use cases for this NFT are going to be this: <br>
 1 - Permissioning addresses to access certain web3 content. <br>
-2 - create sort of multi-level access scheme, giving possibility to leverage a referral scheme.
-3 - prevent malicious users by granting access to directly inviting people.
-4 - represent a badge, so basically as a swag tool.
-5 - Limit the numbers of founders based on some datas that can be retrived thanks to this badge (level height, usage of the miniting
+2 - create sort of multi-level access scheme, giving possibility to leverage a referral scheme. <br>
+3 - prevent malicious users by granting access to directly inviting people. <br>
+4 - represent a badge, so basically as a swag tool. <br>
+5 - Limit the numbers of founders based on some datas that can be retrived thanks to this badge (level height, usage of the miniting. <br>
 
 Here the functions that should be implemented:
 
